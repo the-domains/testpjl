@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Not In Kansas:\_"
-datePublished: '2016-03-14T20:00:44.746Z'
-dateModified: '2016-03-14T20:00:02.119Z'
-title: ''
+datePublished: '2016-03-14T20:12:15.862Z'
+dateModified: '2016-03-14T20:12:06.883Z'
+title: First Post
 author: []
+sourcePath: _posts/2016-03-14-not-in-kansas.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-not-in-kansas.md
-published: true
 url: not-in-kansas/index.html
 _type: Article
 
