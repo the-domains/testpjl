@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Not In Kansas:\_"
-datePublished: '2016-03-14T20:12:15.862Z'
-dateModified: '2016-03-14T20:12:06.883Z'
+datePublished: '2016-03-15T14:01:16.212Z'
+dateModified: '2016-03-15T13:43:16.883Z'
 title: First Post
 author: []
 sourcePath: _posts/2016-03-14-not-in-kansas.md
