@@ -1,28 +1,40 @@
-name: testpjl
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.24071
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6234336
+  brandStrength: 0.85401
+  lightness: 0.1810777
   brandColors:
     - '#211f20'
     - '#414f4e'
     - '#606d53'
     - '#94988a'
     - '#f8f9f0'
-  brandStrength: 0.5
-  lightness: 0.375
-  saturation: 0.5
   rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.3778195
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.7788221
+favicon: null
+name: testpjl
